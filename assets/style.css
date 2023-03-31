@@ -15,6 +15,17 @@ nav{
     left: 0;
     background-image: url(../img/sidebar-bg.png);
     background-color: rgb(6, 30, 52);
+    color: white;
+}
+
+
+.sidebar-content{
+    height: 100%;
+}
+
+.sidebar-icon i{
+    width: 20px;
+    font-size: large;
 }
 
 main{
@@ -24,4 +35,20 @@ main{
     top: 70px;
     left: 150px;
     overflow: scroll;
+}
+
+
+.new-student{
+    background-color: rgb(29, 114, 232);
+    color: white;
+}
+
+.new-student-plus{
+    height: 40px;
+}
+
+.table-img{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
 }
